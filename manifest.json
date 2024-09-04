@@ -1,7 +1,7 @@
 {
     "name": "Zebra Printer PWA",
     "short_name": "ZebraPWA",
-    "start_url": "/index.html",
+    "start_url": "/PWA-zebra-print-wifi/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
